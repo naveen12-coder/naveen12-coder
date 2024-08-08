@@ -1,6 +1,6 @@
 [![MasterHead](https://d33kc2wwsvguti.cloudfront.net/k1ofuo%2Fpreview%2F59945748%2Fmain_large.gif?response-content-disposition=inline%3Bfilename%3D%22main_large.gif%22%3B&response-content-type=image%2Fgif&Expires=1723141699&Signature=AmE6cLD~ezRuJkuo33dfvG8VYtaAi4mwiryr75iuFWAqeXw0iWdOKU8M-7Ju7-wMoTKPvSZiWhre5oIoW2Td7pScjgHwbdpyC~VoBCS2szAZQRxgFNkqpTIzyXHybxxi1vSgSilcx7isXeYypjBk4nlCVZS3BMc2aanN3mPhA-o3ryZHa~Bn7X6W96XF66L1ChMXx9R31aKirRpRA6QU84aokc-FkQ32LvQyPyKnCr5w0JOcCg64CmFG85pP4miH7OU~GFShWmHiwB~P7j0UsHsglTG7ViE1pORQwq5Zgr2anrS9vZlUTRirWpusJ4HXiFOkFqvUC5s5346-gdM75w__&Key-Pair-Id=APKAJT5WQLLEOADKLHBQ)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, "Welcome !"</h1>
-<h3 align="center">Hi Naveen! It’s great to meet you. It sounds like you’re into some really exciting stuff. </h3>
+<h3 align="center">Hi there! I'm Naveen, and it's great to meet you. I’m passionate about programming and excited to share and collaborate on some really cool projects here. </h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/5690231/screenshots/16191500/media/4fbd0ec22f13a3521bb37cc5fe8b1cb3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naveen12-coder&label=Profile%20views&color=0e75b6&style=flat" alt="naveensharawat" /> </p>
