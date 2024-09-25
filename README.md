@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naveen12-coder&label=Profile%20views&color=0e75b6&style=flat" alt="naveensharawat" /> </p>
 
-- 📗 I’m currently learning - *Android Development*
+
 
 - 👨‍💻 My Projects - [https://github.com/Projects](https://github.com/naveen12-coder?tab=repositories)
 
