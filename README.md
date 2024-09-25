@@ -11,7 +11,7 @@
 
 - 📧 My Email - *naveensharawat015@gmail.com*
 
-- 📄 My Resume - [https://naveen-resume.com](https://naveensharawat.tiiny.site)
+  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
